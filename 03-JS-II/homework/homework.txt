@@ -1,0 +1,17 @@
+Explicacion de for
+Crea un bucle que consiste en tres expresiones opcionales, encerradas en paréntesis y 
+separadas por puntos y comas, seguidas de una sentencia ejecutada en un bucle, en primer lugar una variable
+que se utiliza para iniciar el bucle, en segundo una condicion que frena la repeticion si la condicion es 
+cierta el bucle continua y si es falsa para, y en tercer lugar se usa una condicion para incrementar la variable
+
+Explicacion del && (and)
+es una condicional logica que permite determinar el valor boolean en un codigo para que el resultado sea true con
+este operador ambas sentencias debes ser true de lo contraio el valor seria false 
+
+Explicacion del || (or)
+es una condicional logica que permite determinar el valor boolean en un codigo para que el resultado sea true con
+este operador alguna de las sentencias debes ser true y solo cuando ambas sean false el resultado tambien lo seria 
+
+Explicacion de ! (not)
+representa la negacion de un sentencia logica siempre que este presente el valor boolean de la sentencia sera la inversa
+de lo normalmente esperado ejemplo !true === false 
